@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
+- Solution URL:(https://github.com/Jaykins1/Blog)
 - Live Site URL:(file:///C:/Users/USER/Documents/Blog/index.html)
 
 ## My process
