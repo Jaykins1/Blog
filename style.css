@@ -82,6 +82,19 @@ h6 {
     height: 30px;
 }
 
+h1 {
+    color: black;
+    font-weight: 800;
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: #F5D04E;
+}
+
 @media (max-width: 600px) {
     body
     {
